@@ -12,7 +12,7 @@ public class AppTest
     {
        ArithmeticOperations ar=new ArithmeticOperations();
         System.out.println("sum:"+(ar.sum(20,10)));   
-        System.out.println("sub:"+(ar.sub(20,10))); 
+        System.out.println("sub:"+(ar.sub(20,10)));//123 
         System.out.println("mul:"+(ar.mul(2,1)));//123
     }
 }
