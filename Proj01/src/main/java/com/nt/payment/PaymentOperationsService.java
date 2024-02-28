@@ -7,4 +7,7 @@ public class PaymentOperationsService {
 	public String doDebitCardPayment() {
 		return "debit card payment is done";
 	}
+	public String UPIPayment() {
+		return "UPI Payment is done";
+	}
 }
